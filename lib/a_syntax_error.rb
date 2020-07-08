@@ -1,1 +1,5 @@
-1 + "is the loneliest number"
+def syntax
+  hi = "hello"
+  hi
+  
+end
